@@ -1,0 +1,22 @@
+[
+    {
+        "name": {
+            "first_name": "Roshelle",
+            "last_name": "Cisar"
+        },
+        "avatar": "https://robohash.org/dolorumipsumquidem.png?size=300x300&set=set1",
+        "home": {
+            "email": "rcisar0@samsung.com",
+            "phone_number": "(354) 3512166",
+            "address": "9042 Schiller Park"
+        },
+        "work": {
+            "email": "rcisar0@a8.net",
+            "phone_number": "(570) 3416353",
+            "address": "434 Hoffman Crossing",
+            "job_title": "Recruiter",
+            "department": "Training",
+            "company": "Bartell, West and Macejkovic"
+        }
+    }
+]
